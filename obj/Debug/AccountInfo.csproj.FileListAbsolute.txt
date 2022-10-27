@@ -1,0 +1,14 @@
+D:\COURSE\C#\AccountInfo\bin\Debug\AccountInfo.exe.config
+D:\COURSE\C#\AccountInfo\bin\Debug\AccountInfo.exe
+D:\COURSE\C#\AccountInfo\bin\Debug\AccountInfo.pdb
+D:\COURSE\C#\AccountInfo\obj\Debug\AccountInfo.csproj.AssemblyReference.cache
+D:\COURSE\C#\AccountInfo\obj\Debug\AccountInfo.csproj.CoreCompileInputs.cache
+D:\COURSE\C#\AccountInfo\obj\Debug\AccountInfo.exe
+D:\COURSE\C#\AccountInfo\obj\Debug\AccountInfo.pdb
+C:\Users\ra634\Downloads\AccountInfo-20221027T035724Z-001\AccountInfo\bin\Debug\AccountInfo.exe.config
+C:\Users\ra634\Downloads\AccountInfo-20221027T035724Z-001\AccountInfo\bin\Debug\AccountInfo.exe
+C:\Users\ra634\Downloads\AccountInfo-20221027T035724Z-001\AccountInfo\bin\Debug\AccountInfo.pdb
+C:\Users\ra634\Downloads\AccountInfo-20221027T035724Z-001\AccountInfo\obj\Debug\AccountInfo.csproj.AssemblyReference.cache
+C:\Users\ra634\Downloads\AccountInfo-20221027T035724Z-001\AccountInfo\obj\Debug\AccountInfo.csproj.CoreCompileInputs.cache
+C:\Users\ra634\Downloads\AccountInfo-20221027T035724Z-001\AccountInfo\obj\Debug\AccountInfo.exe
+C:\Users\ra634\Downloads\AccountInfo-20221027T035724Z-001\AccountInfo\obj\Debug\AccountInfo.pdb
